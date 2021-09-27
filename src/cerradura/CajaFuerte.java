@@ -4,7 +4,7 @@ public class CajaFuerte {
 
   private Integer clave;
   
-  public CajaFuerte(Integer calev) {
+  public CajaFuerte(Integer clave) {
     this.clave = clave;
   }
 }
